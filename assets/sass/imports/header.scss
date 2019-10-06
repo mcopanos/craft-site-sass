@@ -31,3 +31,22 @@
     display: flex;
     justify-content: center;
   }
+
+  .motto-ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 10px 0 0;
+    // border: 1px solid goldenrod;
+    li {
+      font-size: 18px;
+      letter-spacing: .75px;
+      list-style-type: none;
+      padding: 0 10px;
+    }
+  }
+
+.custom-line {
+  width: 15%;
+  border: 1px solid;
+  border-radius: 5px;
+}

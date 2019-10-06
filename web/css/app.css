@@ -31,6 +31,25 @@
   justify-content: center;
 }
 
+.motto-ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 10px 0 0;
+}
+
+.motto-ul li {
+  font-size: 18px;
+  letter-spacing: 0.75px;
+  list-style-type: none;
+  padding: 0 10px;
+}
+
+.custom-line {
+  width: 15%;
+  border: 1px solid;
+  border-radius: 5px;
+}
+
 * {
   box-sizing: border-box;
 }
